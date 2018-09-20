@@ -12,6 +12,7 @@ script:
 
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/01.png)
 
+# output:
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/01\_output.png)
 
 
@@ -23,18 +24,21 @@ script:
 
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/2.png)
 
+# output:
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/02\_output.png)
 
 # Make a script and print your name 10 times(use fuction to print your name)
 
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/03.png)
 
+# output:
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/03\_output.png)
 
 # Make a excel sheet manually with 5 column, and print the 1st,3rd and 5th column
 
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/04.png)
 
+# output:
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/04\_output.png)
 
 # Install the zabbix-agent using shell script
@@ -49,6 +53,7 @@ script:
 
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/05\_zabix\_service.png)
 
+# output:
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/05\_zabix\_check%20zabix%20config%20file.png)
 
 ![script](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day3/images/05\_zabix\_check%20zabix%20config%20file1.png)
