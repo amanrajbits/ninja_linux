@@ -20,7 +20,7 @@ configure apache2
 
 $sudo vi /etc/apache2/apache2.conf
 
-$ServerName 18.222.198.247
+$ServerName 192.168.33.70
 
 $sudo apache2ctl configtest
 
@@ -30,7 +30,7 @@ $sudo service apache2 restart
 
 ![LAMP](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day4/images/03\_apache2\_status.png)
 
-$curl http://18.222.198.247:80
+$curl http://192.168.33.70:80
 
 ![LAMP](https://github.com/arunkundrupu1990/ninja\_linux/blob/master/day4/images/04\_apache2\_output.png)
 
